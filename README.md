@@ -31,3 +31,16 @@ A complete email marketing funnel for CleanSkn Co skincare brand, featuring a 3-
 - Automated flow triggers
 
 ## 📁 File Structure
+emails/          # MJML source files
+compiled/        # Generated HTML files
+images/          # Screenshots and assets
+docs/            # Project documentation
+
+## 🔗 Live Project
+
+- **Store:** [cleansknco.myshopify.com](https://cleansknco.myshopify.com)
+- **Portfolio:** [evanodacre.github.io](https://evanodacre.github.io)
+
+---
+
+*Built by [Evan O'Dacre](https://evanodacre.github.io) - Email Developer & MJML Specialist*
