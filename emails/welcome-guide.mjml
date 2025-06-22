@@ -1,1 +1,165 @@
+<mjml>
+  <mj-body background-color="#e3e5e8">
+  
+    <!-- Header -->
+    <mj-section background-color="#FFFDF8" padding="20px 0">
+      <!-- Logo and Brand -->
+      <mj-column>
+        <mj-image width="40px" align="center" src="https://cdn-icons-png.flaticon.com/512/5077/5077571.png" />
+        <mj-text font-size="20px" font-weight="bold" align="center" padding="10px 0 5px">
+          Clean Skin CO.
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
+    <!-- Navigation Links -->
+    <mj-section background-color="#FFFDF8" padding="0">
+      <mj-column>
+        <mj-text font-size="13px" align="center" padding="0px">
+          <a href="#" style="color:#000000; text-decoration:none;">Catalog</a><br/>
+          <a href="#" style="color:#000000; text-decoration:none;">Sale</a><br/>
+          <a href="#" style="color:#000000; text-decoration:none;">My&nbsp;Account</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero -->
+    <mj-section background-color="#FFFDF8">
+        <mj-column>
+            <mj-text align="center" font-size="20px" font-weight="bold">Welcome to Clean Skin CO.</mj-text>        
+            <mj-image
+                src="https://images.unsplash.com/photo-1552046122-03184de85e08?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            />
+        </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFDF8">
+        <mj-column>
+            <mj-text font-size="28px" font-weight="bold" align="center" padding="30px 20px 15px" color="#000000">
+            Welcome to simple skin care!
+            </mj-text>
+            <mj-text align="center" padding="0 20px 25px" color="#000000">
+            Here is step one, our 5-step daily routine. Click the link below to claim
+            </mj-text>
+            <mj-button background-color="#3B3B3B" color="#ffffff">
+            Claim routine
+            </mj-button>
+        </mj-column>
+    </mj-section>
+
+    <!-- Benifts -->
+    <mj-section background-color="#FFFDF8" padding="40px 20px">
+      <mj-column width="33%">
+      <mj-text font-weight="bold" font-size="10px">Why Skincare Matters</mj-text>
+      <mj-text font-size="10px">Skincare is essential because it protects, nourishes, and maintains your skin’s health, preventing premature aging and irritation.</mj-text>
+      </mj-column>
+
+      <mj-column width="33%">
+        <mj-text font-weight="bold" font-size="10px">Confidence Starts with Skin</mj-text>
+        <mj-text font-size="10px">Healthy skin boosts confidence, enhances appearance, and helps you feel refreshed, radiant, and ready to face the day.</mj-text>
+      </mj-column>
+
+      <mj-column width="33%">
+        <mj-text font-weight="bold" font-size="10px">What We Offer</mj-text>
+        <mj-text font-size="10px">Our company provides gentle, effective skincare made with natural ingredients—perfect for all skin types and daily routines.</mj-text>
+      </mj-column>
+
+      <mj-column width="40%" padding="20px">
+        <mj-button border="solid #000000 1px" border-radius="4px" padding="10px 10px" font-size="10px" background-color="#ffffff" color="#000000">Explore Benifits</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#FFFDF8" padding="0px">
+      <mj-column width="30%">
+        <mj-text font-size="10px" align="center">CUSTOMER SERVICE</mj-text>
+        <mj-text align="center" font-size="10px">
+          <a href="#" style="color: #000000; text-decoration: none; display: block; padding: 0px;">FAQ</a>
+          <br>
+          <a href="#" style="color: #000000; text-decoration: none; display: block; padding-top: 5px;">CONTACT</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFDF8">
+      <mj-column>
+        <mj-text align="center" font-size="15px" color="#14281D">Clean skin CO.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-social align="center" padding="0px" icon-size="15px" mode="horizontal" color="#000000">
+
+          <mj-social-element
+            name="facebook"
+            href="#"
+            background-color="#9BBACB"
+          ></mj-social-element>
+
+          <mj-social-element
+            name="twitter"
+            padding-left="20px"
+            background-color="#C9CED6"
+            href="#"
+          ></mj-social-element>
+
+          <mj-social-element
+            name="instagram"
+            padding-left="20px"
+            background-color="#A7C5A0"
+            href="#"
+          ></mj-social-element>
+          
+          <mj-social-element
+            name="youtube"
+            padding-left="20px"
+            background-color="#E5B39F"
+            href="#"
+          ></mj-social-element>
+
+          <mj-social-element
+            name="pinterest"
+            padding-left="20px"
+            background-color="#D9A5A3"
+            href="#"
+          ></mj-social-element>
+
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text align="center" font-size="8px" padding="0px">
+          You're receiving this email because you signed up at cleansknco.myshopify.com. For terms, privacy, and more, visit our site.
+        </mj-text>
+
+        <mj-text align="center" font-size="8px" padding-top="10px">
+          Product availability, pricing, and offers may change without notice.
+        </mj-text>
+
+        <mj-text align="center" font-size="8px" padding-top="0px" padding-bottom="0px">
+          This message was sent by Clean Skin CO., 123 address drive, City, Province, Postal.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px" background-color="#fff">
+      <mj-column>
+        <mj-text align="center" font-size="8px" padding="0px">
+          <a href="#" style="text-decoration: none; color: #000;">Edit Preferences | Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text align="center" font-size="10px" font-weight="bold" padding="0px">
+          <a href="#" style="color: #000000; text-decoration: none;">VIEW IN BROWSER</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
