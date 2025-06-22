@@ -1,1 +1,159 @@
+<mjml>
+  <mj-body background-color="#e3e5e8">
+  
+    <!-- Header -->
+    <mj-section background-color="#FFFDF8" padding="20px">
+      <mj-column>
+      <mj-image width="50px" src="https://cdn-icons-png.flaticon.com/512/5077/5077571.png" />
+        <mj-text font-size="24px" font-weight="bold" align="center">
+          Clean Skin CO.
+        </mj-text>
+        <mj-text font-size="15px" align="center">
+          <a href="#" style="color: #000000; text-decoration: none; padding-right: 20px;">Catalog</a>
+          <a href="#" style="color: #000000; text-decoration: none; padding-right: 20px;">Sale</a>
+          <a href="#" style="color: #000000; text-decoration: none;">My Account</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
+    <!-- Hero -->
+    <mj-section background-color="#FFFDF8" padding="0">
+      <mj-column>
+        <mj-image />
+        <mj-text font-size="28px" font-weight="bold" align="center" padding="30px 20px 15px">
+          Why Clean Skin Co. Products Actually Work
+        </mj-text>
+        <mj-text align="center" padding="0 20px 25px" padding-bottom="0px">
+          Science-Backed Skincare That Does What It Says
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- first p -->
+    <mj-section background-color="#FFFDF8">
+      <mj-column>
+        <mj-text align="left" font-size="13px" padding="10px 20px">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtFwB4TDoFLAYjL62Y_snVoGCUmr6Uf9uzw&s"
+              style="width: 18px; height: 18px; vertical-align: middle; margin-right: 10px;" 
+              alt="Icon" />
+          Ever wonder why some skincare just… doesn't work? At Clean Skin Co., we start with clinically proven ingredients—no fillers, no fluff. Every formula is built to deliver visible results, backed by dermatology, not just trends.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- second p -->
+    <mj-section background-color="#FFFDF8">
+      <mj-column>
+        <mj-text align="left" font-size="13px" padding="10px 20px">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4UtEtTuKAFYkABCnUakUEtBUljwWtoVcVgA&s" 
+              style="width: 18px; height: 18px; vertical-align: middle; margin-right: 10px;" 
+              alt="Icon" />
+          Our ingredients are plant-powered but potent. Think niacinamide, hyaluronic acid, and soothing botanicals—all carefully balanced to support your skin barrier and keep breakouts, dryness, and dullness away.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- third p -->
+    <mj-section background-color="#FFFDF8">
+      <mj-column>
+        <mj-text align="left" font-size="13px" padding="10px 20px">
+          <img src="https://t4.ftcdn.net/jpg/07/55/00/89/360_F_755008972_PnJEYsmYHY8j22fOrJbKkKSuxZgONOYR.jpg" 
+              style="width: 18px; height: 18px; vertical-align: middle; margin-right: 10px;" 
+              alt="Icon" />
+          Your skin is unique, but the goal is simple: clean, healthy, confident skin. That's why we don't cut corners. No artificial junk. No overcomplicated routines. Just effective skincare made to perform.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#FFFDF8">
+      <mj-column>
+        <mj-button border-radius="5px" background-color="#3B3B3B">Explore the Science →</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-social align="center" padding="0px" icon-size="15px" mode="horizontal" color="#000000">
+
+          <mj-social-element
+            name="facebook"
+            href="#"
+            background-color="#9BBACB"
+          ></mj-social-element>
+
+          <mj-social-element
+            name="twitter"
+            padding-left="20px"
+            background-color="#C9CED6"
+            href="#"
+          ></mj-social-element>
+
+          <mj-social-element
+            name="instagram"
+            padding-left="20px"
+            background-color="#A7C5A0"
+            href="#"
+          ></mj-social-element>
+          
+          <mj-social-element
+            name="youtube"
+            padding-left="20px"
+            background-color="#E5B39F"
+            href="#"
+          ></mj-social-element>
+
+          <mj-social-element
+            name="pinterest"
+            padding-left="20px"
+            background-color="#D9A5A3"
+            href="#"
+          ></mj-social-element>
+
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="5px">
+      <mj-column>
+        <mj-text align="center" font-size="8px" padding="0px">
+          Product availability, pricing, and offers may change without notice.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column>
+        <mj-text align="center" font-size="8px" padding="0px">
+          You're receiving this email because you signed up at cleansknco.myshopify.com. For terms, privacy, and more, visit our site.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="0px" padding-top="5px">
+      <mj-column>
+
+        <mj-text align="center" font-size="8px" padding-top="0px" padding-bottom="0px">
+          This message was sent by Clean Skin CO., 123 address drive, City, Province, Postal.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text align="center" font-size="8px" padding="0">
+          <a href="#" style="text-decoration: none; color: #000;">Edit Preferences | Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-top="0px">
+      <mj-column>
+        <mj-text align="center" font-size="10px" font-weight="bold" padding="0px">
+          <a href="#" style="color: #000000; text-decoration: none;">VIEW IN BROWSER</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
