@@ -1,1 +1,286 @@
+<mjml>
+    <mj-head>
+        <mj-style>
+            .bordered-box {
+                border-radius: 10px;
+                padding: 15px;
+                height: 100%;
+                box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+                background: #ffffff;
+            }
 
+            .box-title {
+                font-weight: bold;
+                font-size: 16px;
+                margin-bottom: 10px;
+                color: #000000;
+                text-align: left;
+                }
+
+            .box-description {
+                font-size: 12px;
+                color: #666666;
+                text-align: left;
+            }
+        </mj-style>
+    </mj-head>
+  <mj-body background-color="#e3e5e8">
+
+  <mj-raw>
+    <!--[if !mso]><!-- -->
+    <span style="display: none; font-size: 1px; color: #ffffff; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+      Meet your skin’s new best friend — simple, powerful, plant-based.
+    </span>
+    <!--<![endif]-->
+  </mj-raw>
+  
+    <!-- Header -->
+    <mj-section background-color="#FFFDF8" padding="20px">
+      <mj-column>
+      <mj-image width="50px" src="https://cdn-icons-png.flaticon.com/512/5077/5077571.png" />
+        <mj-text font-size="24px" font-weight="bold" align="center">
+          Clean Skin CO.
+        </mj-text>
+        <mj-text font-size="15px" align="center">
+          <a href="#" style="color: #000000; text-decoration: none; padding-right: 20px;">Catalog</a>
+          <a href="#" style="color: #000000; text-decoration: none; padding-right: 20px;">Sale</a>
+          <a href="#" style="color: #000000; text-decoration: none;">My Account</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hero -->
+    <mj-section background-color="#FFFDF8">
+      <mj-column>
+      <mj-image
+        src="https://images.unsplash.com/photo-1677176430993-3115a2278b74?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        width="300px"
+        padding="20px 0"
+        alt="Gentle Smoothing"
+        fluid-on-mobile="true"
+      />
+        <mj-text font-size="24px" font-weight="bold" align="center" padding="30px 20px 15px">
+          St.Ives Face Scrub
+        </mj-text>
+        <mj-text align="center" font-size="14px" padding="0 20px 25px">
+          Deep hydration. Natural glow. No compromises.
+        </mj-text>
+        <mj-button background-color="#3B3B3B">
+          Try It Now →
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- first p -->
+    <mj-section background-color="#FFFDF8">
+        <mj-column width="90%" padding="10px">
+            <mj-raw>
+            <div class="bordered-box">
+                <img align="left" src="https://cdn.iconscout.com/icon/free/png-256/free-plant-emoji-icon-download-in-svg-png-gif-file-formats--growth-tree-100-pack-miscellaneous-icons-450351.png?f=webp&w=256" style="width: 50px; height: 50px; display: block; margin: 0 auto 15px;" />
+                <div class="box-title">Plant-powered ingredients</div>
+                <div class="box-description">| Thoughtfully chosen botanicals with proven skin benefits.</div>
+            </div>
+            </mj-raw>
+        </mj-column>
+    </mj-section>
+
+    <!-- second p -->
+    <mj-section background-color="#FFFDF8">
+        <mj-column width="90%" padding="10px">
+            <mj-raw>
+            <div class="bordered-box">
+                <img align="left" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgFuBcs8TzOKPpbzJXTySBBLZC2Iub-lu5Ew&s" />
+                <div class="box-title">Backed by science</div>
+                <div class="box-description">| Dermatologist-supported formulas with no filler.</div>
+            </div>
+            </mj-raw>
+        </mj-column>
+    </mj-section>
+
+    <!-- third p -->
+    <mj-section background-color="#FFFDF8">
+        <mj-column width="90%" padding="10px">
+            <mj-raw>
+            <div class="bordered-box">
+                <img align="left" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtFwB4TDoFLAYjL62Y_snVoGCUmr6Uf9uzw&s" />
+                <div class="box-title">Skin-barrier friendly</div>
+                <div class="box-description">| Gentle enough for daily use, effective enough to see results.</div>
+            </div>
+            </mj-raw>
+        </mj-column>
+    </mj-section>
+
+    <!-- Testimonials -->
+    <mj-section background-color="#FFFDF8" padding="30px 20px">
+        <mj-group>
+            <mj-column>
+                <!-- Profile + stars row -->
+                <mj-table>
+                    <tr>
+                        <td style="vertical-align: middle; padding-right: 10px;">
+                        <img src="https://i.pravatar.cc/150?img=47" width="40" style="border-radius: 50%;" alt="Profile Image">
+                        </td>
+                        <td style="vertical-align: middle;">
+                        <strong style="font-size: 14px; color: #333;">Leah P.</strong><br/>
+                        <span style="font-size: 12px; color: #FFC107;">★★★★★</span>
+                        </td>
+                    </tr>
+                </mj-table>
+
+                <mj-text font-size="16px" font-weight="bold" align="center" padding-bottom="10px">
+                “I didn’t expect results this fast.”
+                </mj-text>
+                <mj-text font-size="14px" color="#555555" align="center" padding-bottom="5px">
+                I’ve tried dozens of serums, but this one made my skin softer in just a few days. So impressed.
+                </mj-text>
+                <mj-text font-size="12px" color="#999999" align="center">
+                — Leah P.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#FFFDF8" padding="0 20px 30px">
+            <mj-column>
+                <mj-table>
+                    <tr>
+                        <td style="vertical-align: middle; padding-right: 10px;">
+                        <img src="https://i.pravatar.cc/150?img=60" width="40" style="border-radius: 50%;" alt="Profile Image">
+                        </td>
+                        <td style="vertical-align: middle;">
+                        <strong style="font-size: 14px; color: #333;">Jas R.</strong><br/>
+                        <span style="font-size: 12px; color: #FFC107;">★★★★★</span>
+                        </td>
+                    </tr>
+                </mj-table>
+
+                <mj-text font-size="16px" font-weight="bold" align="center" padding-bottom="10px">
+                “Feels like luxury, without the drama.”
+                </mj-text>
+                <mj-text font-size="14px" color="#555555" align="center" padding-bottom="5px">
+                No irritation, no weird smells, just smooth skin and a healthy glow. I’m officially hooked.
+                </mj-text>
+                <mj-text font-size="12px" color="#999999" align="center">
+                — Jasmin R.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#FFFDF8" padding="0 20px 30px">
+            <mj-column>
+                <mj-table>
+                    <tr>
+                        <td style="vertical-align: middle; padding-right: 10px;">
+                        <img src="https://i.pravatar.cc/40?img=45" width="40" style="border-radius: 50%;" alt="Profile Image">
+                        </td>
+                        <td style="vertical-align: middle;">
+                        <strong style="font-size: 14px; color: #333;">Jenna W.</strong><br/>
+                        <span style="font-size: 12px; color: #FFC107;">★★★★★</span>
+                        </td>
+                    </tr>
+                </mj-table>
+
+                <mj-text font-size="16px" font-weight="bold" align="center" padding-bottom="10px">
+                "My skin's never looked this calm”
+                </mj-text>
+                <mj-text font-size="14px" color="#555555" align="center" padding-bottom="5px">
+                I tossed everything else
+                </mj-text>
+                <mj-text font-size="12px" color="#999999" align="center">
+                — Jenna W.
+                </mj-text>
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#FFFDF8">
+      <mj-column>
+        <mj-button border-radius="5px" background-color="#3B3B3B">Get yours today →</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-social align="center" padding="0px" icon-size="15px" mode="horizontal" color="#000000">
+
+          <mj-social-element
+            name="facebook"
+            href="#"
+            background-color="#9BBACB"
+          ></mj-social-element>
+
+          <mj-social-element
+            name="twitter"
+            padding-left="20px"
+            background-color="#C9CED6"
+            href="#"
+          ></mj-social-element>
+
+          <mj-social-element
+            name="instagram"
+            padding-left="20px"
+            background-color="#A7C5A0"
+            href="#"
+          ></mj-social-element>
+          
+          <mj-social-element
+            name="youtube"
+            padding-left="20px"
+            background-color="#E5B39F"
+            href="#"
+          ></mj-social-element>
+
+          <mj-social-element
+            name="pinterest"
+            padding-left="20px"
+            background-color="#D9A5A3"
+            href="#"
+          ></mj-social-element>
+
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="5px">
+      <mj-column>
+        <mj-text align="center" font-size="8px" padding="0px">
+          Product availability, pricing, and offers may change without notice.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column>
+        <mj-text align="center" font-size="8px" padding="0px">
+          You're receiving this email because you signed up at cleansknco.myshopify.com. For terms, privacy, and more, visit our site.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="0px" padding-top="5px">
+      <mj-column>
+
+        <mj-text align="center" font-size="8px" padding-top="0px" padding-bottom="0px">
+          This message was sent by Clean Skin CO., 123 address drive, City, Province, Postal.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text align="center" font-size="8px" padding="0">
+          <a href="#" style="text-decoration: none; color: #000;">Edit Preferences | Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-top="0px">
+      <mj-column>
+        <mj-text align="center" font-size="10px" font-weight="bold" padding="0px">
+          <a href="#" style="color: #000000; text-decoration: none;">VIEW IN BROWSER</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
